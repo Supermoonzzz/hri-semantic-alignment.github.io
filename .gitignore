@@ -1,0 +1,11 @@
+.env
+.env.local
+.vercel/
+.vercel-xdg/
+.vercel-local/
+hri-proxy-token.txt
+node_modules/
+npm-debug.log*
+
+.vercel
+.env*
